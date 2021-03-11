@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Son Do</h1>
 <h3 align="center">Vietnamese software engineer in Japan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sondh5&label=Profile%20views&color=0e75b6&style=flat" alt="sondh5" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sondh5&label=Profile%20views&color=0e75b6&style=flat" alt="sondh5" /> </p> -->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
